@@ -8,3 +8,5 @@
 * Aula 2 - Conceitos sobre Métricas de Avaliação e Divisão de Dados ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula2/metrics_datasplit.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula2/Cross-Validation.ipynb)) 
 
 * Aula 3 - Conceitos sobre Classificador Bayesiano ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula3/classificador_bayesiano.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula3/NaiveBayes.ipynb))
+
+* Aula 4 - Conceitos sobre K-NN ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula4/k-nn.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula4/K-NN.ipynb))
