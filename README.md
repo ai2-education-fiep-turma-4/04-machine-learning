@@ -10,3 +10,7 @@
 * Aula 3 - Conceitos sobre Classificador Bayesiano ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula3/classificador_bayesiano.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula3/NaiveBayes.ipynb))
 
 * Aula 4 - Conceitos sobre K-NN ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula4/k-nn.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula4/K-NN.ipynb))
+
+* Aula 5 - Conceitos sobre Perceptron-MLP ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula5/perceptron_mlp.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula5/Perceptron.ipynb))
+
+
