@@ -14,3 +14,4 @@
 * Aula 5 - Conceitos sobre Perceptron-MLP ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula5/perceptron_mlp.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula5/Perceptron.ipynb))
 
 
+* Aula 6 - Aula prática Pytorch-MLP ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula6))
