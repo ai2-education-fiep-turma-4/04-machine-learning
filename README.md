@@ -16,7 +16,6 @@
 
 * Aula 6 - Aula prática Pytorch-MLP ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula6))
 
-* Aula 6b - Aula prática MLP-Dropout ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula7))
+* Aula 6b - Aula prática MLP-Dropout ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula6b))
 
-
-* Aula 7 - Conceitos sobre SVM ([Slides](...)) ([Exercícios](...))
+* Aula 7 - Conceitos sobre SVM ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula7/svm.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula7/SVM.ipynb))
