@@ -20,4 +20,4 @@
 
 * Aula 7 - Conceitos sobre SVM ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula7/svm.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula7/SVM.ipynb))
 
-* Aula 8 - Conceitos sobre k-Médias e GMM ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula8)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula8/kmean_gmm.ipynb))
+* Aula 8 - Conceitos sobre k-Médias e GMM ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula8)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula8/kmeans_gmm.ipynb))
