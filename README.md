@@ -22,4 +22,4 @@
 
 * Aula 8 - Conceitos sobre k-Médias e GMM ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula8)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula8/kmeans_gmm.ipynb))
 
-* Aula 9 - Conceitos sobre OPF ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula9)) ([Exercícios](soon...))
+* Aula 9 - Conceitos sobre OPF ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula9)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula9/OPF.ipynb))
