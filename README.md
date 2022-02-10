@@ -24,6 +24,6 @@
 
 * Aula 9 - Conceitos sobre OPF ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula9/opf.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula9/OPF.ipynb))
 
-* Aula 10 - Conceitos sobre AD ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula10/ad.pdf)) ([Exercícios](soon))
+* Aula 10 - Conceitos sobre AD ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula10/ad.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula10))
 
 
