@@ -26,4 +26,4 @@
 
 * Aula 10 - Conceitos sobre AD ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/slides/aula10/ad.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula10))
 
-
+* Aula 11 - Aula prática - aplicação real (AVC) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula11))
