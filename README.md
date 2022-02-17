@@ -30,4 +30,4 @@
 
 * Aula 12 - Aula prática - aplicação real (SPAM) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula12))
 
-* Aula 13 - Aula prática - aplicação real (---) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/))
+* Aula 13 - Aula prática - aplicação real (---) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/exercicios/aula13))
