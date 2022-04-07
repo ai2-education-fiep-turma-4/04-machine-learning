@@ -35,4 +35,4 @@
 
 # Machine Learning/2 - Python
 
-* Aula 1 - Conceitos sobre PCA ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula1/pca.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/aula1/aula1_PCA.ipynb)) 
+* Aula 1 - Conceitos sobre PCA ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula1/pca.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/aula1_PCA/PCA.ipynb)) 
