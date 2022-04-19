@@ -40,4 +40,6 @@
 * Aula 2 - Conceitos sobre LDA/MDA ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula2/lda.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/aula2_LDA/LDA.ipynb)) 
 
 * Aula 3 - Conceitos sobre KPCA ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula3/kpca.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/aula3_kernelPCA/kernelPCA.ipynb)) 
-* 
+
+* Aula 4 - Conceitos sobre KFDA ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula4/kfda.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/aula4_KFDA/KFDA.ipynb)) 
+
