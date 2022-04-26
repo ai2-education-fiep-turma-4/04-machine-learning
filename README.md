@@ -43,3 +43,5 @@
 
 * Aula 4 - Conceitos sobre KFDA ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula4/kfda.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/aula4_KFDA/KFDA.ipynb)) 
 
+* Aula 5 - Conceitos sobre ISOMAP ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula5/isomap.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/Aula5_ISOMAP/Aula5_isomap.ipynb)) 
+
