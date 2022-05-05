@@ -47,5 +47,5 @@
 
 * Aula 6 - Conceitos sobre LLE ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula6/lle.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/aula6_LLE/)) 
 
-* Aula 7 - Conceitos sobre RBM-DBN ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula7/rbm.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/)) 
+* Aula 7 - Conceitos sobre RBM-DBN ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula7/rbm.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/aula7_RBM/RBM-DBN.ipynb)) 
 
