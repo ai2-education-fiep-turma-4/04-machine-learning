@@ -50,3 +50,5 @@
 * Aula 7 - Conceitos sobre RBM-DBN ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula7/rbm.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/aula7_RBM/RBM-DBN.ipynb)) 
 
 * Aula 8 - Conceitos sobre CNN ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula8/cnn.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/aula8_CNN/CNN.ipynb)) 
+
+* Aula 9 - Conceitos sobre GNN ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula9/gnn.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/aula9_GCN/GCN.ipynb)) 
