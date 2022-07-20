@@ -54,3 +54,6 @@
 * Aula 9 - Conceitos sobre GNN ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula9/gnn.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/aula9_GCN/GCN.ipynb)) 
 
 * Aula 10 - Conceitos sobre AE ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula10/ae1.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/aula10_AE/)) 
+
+* Aula 11 - Conceitos sobre VAE ([Slides](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/blob/master/ml-2/slides/aula11/ae2.pdf)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/04-machine-learning/tree/master/ml-2/exercicios/aula11_VAE/)) ([Geração de música com VAE:] (https://magenta.tensorflow.org/music-vae))
+
